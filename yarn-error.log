@@ -1,0 +1,61 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add react-native-splash-screen
+
+PATH: 
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/marina/Library/Android/sdk/emulator:/Users/marina/Library/Android/sdk/tools:/Users/marina/Library/Android/sdk/tools/bin:/Users/marina/Library/Android/sdk/platform-tools
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  10.14.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: EACCES: permission denied, mkdir '/Users/marina/Desktop/PlatoraApp/node_modules/@redux-saga/core/node_modules'
+
+npm manifest: 
+  {
+    "name": "CurrencyApp",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+      "start": "node node_modules/react-native/local-cli/cli.js start",
+      "test": "jest"
+    },
+    "dependencies": {
+      "color": "3.0.0",
+      "hoist-non-react-statics": "3.0.1",
+      "moment": "2.18.1",
+      "prop-types": "^15.7.2",
+      "react": "16.6.3",
+      "react-native": "0.58.6",
+      "react-native-dropdownalert": "3.1.2",
+      "react-native-elements": "^1.1.0",
+      "react-native-extended-stylesheet": "^0.11.1",
+      "react-native-vector-icons": "^6.4.2",
+      "react-navigation": "2.5.5",
+      "react-redux": "5.0.4",
+      "redux": "4.0.0",
+      "redux-logger": "3.0.1",
+      "redux-saga": "^1.0.2"
+    },
+    "devDependencies": {
+      "babel-core": "7.0.0-bridge.0",
+      "babel-jest": "24.1.0",
+      "jest": "24.1.0",
+      "metro-react-native-babel-preset": "0.52.0",
+      "react-test-renderer": "16.6.3"
+    },
+    "jest": {
+      "preset": "react-native"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

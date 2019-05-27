@@ -1,0 +1,4 @@
+#Fri Mar 22 22:08:28 CET 2019
+base.0=/Users/marina/Desktop/PlatoraApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

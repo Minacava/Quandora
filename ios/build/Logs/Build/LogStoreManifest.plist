@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>EA9AC921-5E4C-4051-9CB1-96F9B8C5064C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EA9AC921-5E4C-4051-9CB1-96F9B8C5064C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CurrencyApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CurrencyApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CurrencyApp with scheme CurrencyApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580558838.92265606</real>
+			<key>timeStoppedRecording</key>
+			<real>580558841.49111903</real>
+			<key>title</key>
+			<string>Building project CurrencyApp with scheme CurrencyApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>EA9AC921-5E4C-4051-9CB1-96F9B8C5064C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
